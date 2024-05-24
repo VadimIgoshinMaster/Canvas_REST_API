@@ -6,6 +6,8 @@
 #5. Run courses3.csv in Canvas SIS to create new courses shells.
 
 ###### API Batch Upload ##########
+#6. Update the term's ID in the list_courses_ids.py 
+#7. Run the list_courses_ids.py to retrieve csv's with all courses' IDs for the current and future terms
 #6. Update courses_to_clone.csv with relevat sourses IDs.
 #7. Run the courses.cloning_date_shift2.sh to clone all the content from previous term courses and Templates.
 #8. Update the new courses in the COURSE_IDS and relevand days shift in the DAYS_SHIFT in the update_due_dates2.py
