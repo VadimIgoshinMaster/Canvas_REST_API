@@ -4,6 +4,7 @@
 #3. Update the enrollments3.csv with relevant info from Populi. Retrive all instructors PopuliID = user_id from https://wust.populiweb.com/router/academics/academicterms/303045/faculty.
 #4. Run users.csv fil in Canvas SIS to create new instructors' accounts.
 #5. Run courses3.csv in Canvas SIS to create new courses shells.
+#6. Run enrollments3.csv in Canvas SIS to assign teacher to the relevant courses
 
 ###### API Batch Upload ##########
 #6. Update the term's ID in the list_courses_ids.py 
